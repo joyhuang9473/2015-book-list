@@ -1,3 +1,6 @@
 [submodule "phpstorm-tdd-refactor"]
 	path = issue-85-phpstorm-tdd-refactor
 	url = https://github.com/joyhuang-note/phpstorm-tdd-refactor.git
+[submodule "computational-thinking-and-data-science-final-project"]
+	path = issue-90-computational-thinking-and-data-science-final-project
+	url = https://github.com/joyhuang-note/computational-thinking-and-data-science-final-project.git
