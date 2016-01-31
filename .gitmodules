@@ -4,3 +4,6 @@
 [submodule "computational-thinking-and-data-science-final-project"]
 	path = issue-90-computational-thinking-and-data-science-final-project
 	url = https://github.com/joyhuang-note/computational-thinking-and-data-science-final-project.git
+[submodule "laravel-from-apprentice-to-artisan"]
+	path = issue-83-laravel-from-apprentice-to-artisan
+	url = https://github.com/joyhuang-note/laravel-from-apprentice-to-artisan.git
