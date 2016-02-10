@@ -7,3 +7,6 @@
 [submodule "laravel-from-apprentice-to-artisan"]
 	path = issue-83-laravel-from-apprentice-to-artisan
 	url = https://github.com/joyhuang-note/laravel-from-apprentice-to-artisan.git
+[submodule "laravel-testing-decoded"]
+	path = issue-42-laravel-testing-decoded
+	url = https://github.com/joyhuang-note/laravel-testing-decoded.git
